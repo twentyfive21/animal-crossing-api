@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    background-image: url("https://i.pinimg.com/originals/b4/d5/78/b4d578ce898d405a4e22385e6587ab5d.jpg");
+    background-size: cover;
+} 
