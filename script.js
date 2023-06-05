@@ -9,7 +9,7 @@ const hobby = document.querySelector("#hobby");
 
 function getVillager () {
 const randomCharacter = Math.floor(Math.random() * 391 + 1);
-fetch(`http://acnhapi.com/v1/villagers/${randomCharacter}`)
+fetch(`https://acnhapi.com/v1/villagers/${randomCharacter}`)
 .then((res) => res.json())
 .then((json) => {
     const villager = json;
