@@ -3,8 +3,45 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
+    list-style-type: none;
 }
 body {
     background-image: url("https://i.pinimg.com/originals/b4/d5/78/b4d578ce898d405a4e22385e6587ab5d.jpg");
     background-size: cover;
+    display: flex;
+    justify-content: center;
 } 
+
+.container{
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 300px;
+    height: 650px;
+    border-radius: 5px;
+    padding: 0px 30px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+button {
+    width: 200px;
+    height: 35px;
+    border-radius: 20px;
+    letter-spacing: 1.5px;
+    background-color: white;
+}
+img {
+ border-radius: 5px;
+ width: 256px;
+}
+
+div {
+    background-color: antiquewhite;
+}
+
+p {
+    padding: 5px 0px;
+}
