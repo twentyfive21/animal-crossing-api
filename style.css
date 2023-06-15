@@ -5,6 +5,7 @@
     font-family: 'Montserrat', sans-serif;
     list-style-type: none;
 }
+
 body {
     background-image: url("https://i.pinimg.com/originals/b4/d5/78/b4d578ce898d405a4e22385e6587ab5d.jpg");
     background-size: cover;
@@ -12,8 +13,17 @@ body {
     justify-content: center;
 } 
 
+header {
+    height: 8vh;
+    width: 100vw;
+    font-size: 20px;
+    background-color: lightpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+}
 .container{
-    margin-top: 80px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -44,4 +54,29 @@ div {
 
 p {
     padding: 5px 0px;
+}
+
+footer {
+    height: 8vh;
+    width: 100vw;
+    background-color: lightpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 115px;
+}
+
+footer img {
+    width: 35px;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media (max-width: 950px) {
+   .container {
+    margin: 100px 0px;
+   }
 }
