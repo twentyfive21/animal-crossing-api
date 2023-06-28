@@ -1,7 +1,7 @@
 # Animal Crossing Website Using API
 ---
 ## Introduction: 
-This site is simple right now as I just finsihed the implementation of retrieving the APi data, but will grow bigger as I start to filter through more of the data and make it a bigger directory. I am open to any suggestions if anyone has any and please reach out to me if you have an questions or feedback!
+This is a simple site that retrieves the Animal Crossing API. I am open to any suggestions if anyone has any and please reach out to me if you have an questions or feedback!
 ---
 ## More about the API: 
 Welcome to the Animal Crossing API! This API provides access to various data related to the popular game Animal Crossing, developed by Nintendo. It allows developers to retrieve information about villagers, items, and other game-related details.
