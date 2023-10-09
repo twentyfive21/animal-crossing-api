@@ -1,13 +1,13 @@
 ## Animal Crossing Website Using API
 ---
+## Disclaimer :
+#### This api link is now deprecated unfortunately. Please note that I do not own Animal Crossing, nor am I affiliated with Nintendo or the creators of the game. This API is purely for educational and informational purposes. 
+---
 ### Introduction: 
 #### This is a simple site that retrieves the Animal Crossing API. I am open to any suggestions if anyone has any and please reach out to me if you have an questions or feedback!
 ---
 ## More about the API: 
 #### Welcome to the Animal Crossing API! This API provides access to various data related to the popular game Animal Crossing, developed by Nintendo. It allows developers to retrieve information about villagers, items, and other game-related details.
----
-## Disclaimer :
-#### This api link is now deprecated unfortunately. Please note that I do not own Animal Crossing, nor am I affiliated with Nintendo or the creators of the game. This API is purely for educational and informational purposes. 
 ---
 ## Features :
 #### Villager Information: Retrieve details about different villagers, including their names, personality types, and birthdays. 
